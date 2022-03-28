@@ -2,7 +2,10 @@
 echo "ALX"
 echo "ALX school"
 echo "ALX school"
+<<<<<<< HEAD
 echo "ALX school"
 echo "ALX school"
 echo "ALX School"
 echo "ALX is so cool"
+=======
+>>>>>>> update_script
